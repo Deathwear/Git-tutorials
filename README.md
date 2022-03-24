@@ -14,3 +14,7 @@ $ touch .gitignore
 $ notepad .git ignore
 $ ls -la
 $ git remote add origin <link of repository which is to be added> 
+$ git branch
+$ git branch <name of branch which is to be made>
+$ git branch -d <name of branch which is to be deleted>
+$ git checkout <name of branch which is to be switched>
