@@ -18,3 +18,4 @@ $ git branch
 $ git branch <name of branch which is to be made>
 $ git branch -d <name of branch which is to be deleted>
 $ git checkout <name of branch which is to be switched>
+$ git push origin --delete <name of branch which is to be deleted from github account>
