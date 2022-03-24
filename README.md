@@ -9,3 +9,6 @@ $ git config --global user.name "____________"
 $ git config --global user.email"____________"
 $ git diff <file>
 $ git clone <link>
+$ touch .gitignore
+$ notepad .git ignore
+ls -la
