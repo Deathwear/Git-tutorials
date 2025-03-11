@@ -21,3 +21,7 @@ $ git branch -d <name of branch which is to be deleted>
 $ git checkout <name of branch which is to be switched>
 $ git push origin --delete <name of branch which is to be deleted from github account>
 $ git config --get remote.origin.url
+
+
+
+### A .gitignore file tells Git which files or directories to ignore in a repository. It prevents unnecessary or sensitive files from being tracked.
