@@ -24,4 +24,4 @@ $ git config --get remote.origin.url
 
 
 
-### A .gitignore file tells Git which files or directories to ignore in a repository. It prevents unnecessary or sensitive files from being tracked.
+#### A .gitignore file tells Git which files or directories to ignore in a repository. It prevents unnecessary or sensitive files from being tracked.
